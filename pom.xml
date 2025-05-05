@@ -85,7 +85,7 @@
             <dependency>
                 <groupId>info.picocli</groupId>
                 <artifactId>picocli-spring-boot-starter</artifactId>
-                <version>4.7.5</version>
+                <version>4.7.7</version>
             </dependency>
             <dependency>
                 <!-- Explicit SnakeYAML dependency required until v2.0+ included into Spring -->
